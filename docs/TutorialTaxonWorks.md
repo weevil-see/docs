@@ -4,6 +4,7 @@ title: Understanding TaxonWorks
 icon: lucide/graduation-cap
 ---
 ## Why TaxonWorks?
+(To be added soon)
 
 More information can be found in [About the Tutorial](TutorialAbout.md).
 ## Cards: Tasks and Data
@@ -17,3 +18,4 @@ In this video, I'm searching for the "**New Taxon Name**" Task and add it as a f
 Don't be overwhelmed by the large number of cards. Most of them are the solution for very specific problems, and you'll probably need to use only a handful of them.
 
 ## The OTU
+(To be added soon)

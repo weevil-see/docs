@@ -13,8 +13,9 @@ A species that was described as _Cleonus obsoletefaciatus_ (_Cleonus_ is gramati
 
 **In the "Parent" field, you select the parent taxon where YOU want to place the taxon**. The original combination, as well as other subsequent combinations, will be added later! For species, the parent could be either a genus or a subgenus. Try to be as specific as possible.  
 
-<video controls>
-  <source src="https://github.com/user-attachments/assets/c2ed5bd8-30bb-4357-830a-7b2ffbfb9589" type="video/webm">
+<video controls autoplay loop muted >
+  <source src="/assets/videos/NewTaxonName.webm" type="video/webm">
+  Your browser does not support the video tag.
 </video>
 
 **To be continued soon!**
