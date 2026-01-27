@@ -11,6 +11,18 @@ Start by adding the species epithet in the "name" field.
 **Important:** You should enter the species name with the same grammatical ending as in its **original combination** (= [protonym](https://docs.taxonworks.org/about/glossary.html#protonym) in TaxonWorks wording). TaxonWork will adjust the ending for each subsequent combination:  
 A species that was described as _Cleonus obsoletefaciatus_ (_Cleonus_ is gramatically male) will automatically become "_obsoletefasciata_" when combined with the genus name _Asproparthenis_ (grammatically female).  
 
+1
+
+![test](assets/videos/NewTaxonName.webm)
+
+2
+
+![test](/assets/videos/NewTaxonName.webm)
+
+3
+
+![test](https://weevil-see.com/docs/assets/videos/NewTaxonName.webm)
+
 **In the "Parent" field, you select the parent taxon where YOU want to place the taxon**. The original combination, as well as other subsequent combinations, will be added later! For species, the parent could be either a genus or a subgenus. Try to be as specific as possible.
 
 <video>
