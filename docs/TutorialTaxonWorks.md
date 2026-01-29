@@ -43,8 +43,9 @@ When adding information, imagine attaching new nodes to the network. **Don't wor
 This figure is probably very inaccurate, it's just to give an idea.</figcaption>
   ![Image title](/assets/images/datastructure_r.png)
 </figure>
+<div style="display:none;">
 <!-- This is the source code for the flowchart, in case you want to adjust it render it on https://mermaid.ai/
-```mermaid
+mermaid
 ---
 config:
   theme: redux
@@ -61,7 +62,6 @@ flowchart TB
     ct2["Citation:<br>Abbazzi, 1992:<br> Checklist of Italian Weevils"] ---> AD2
     OTU1 ---> sum["_**Otiorhynchus indefinitus**_ Reitter, 1912<br> = *dieckmanni* Magnano, 1978<br>**Germany** ﬂ°°40¶ßBehne, 1990ﬂ°°41¶ß<br>**Italy** ﬂ°°40¶ßAbbazzi, 1992ﬂ°°41¶ß"]
     OTU2 ---> sum
-
      OTU1:::otu
      TN1:::name
      OTU2:::otu
@@ -76,5 +76,11 @@ flowchart TB
     classDef citation fill:#e8,stroke:#2e7d32
     classDef summary fill:#f1f8e9,stroke:#1b5e20,stroke-width:3px
     linkStyle default stroke:grey
-```
 -->
+</div>
+
+## Tips & Tricks
+ - You can have several tabs of TaxonWorks open in the browser at the same time. E.g. if you notice you need a source that is missing, open "New Source" in a new tab, create the source, then proceed in the other tab where you left.
+ - Use the pinboard (right side of the screen) when you find youself citing the same few sources over and over.
+ - If the scroll bar of your browser is interfering with the pinboard and similar features, edit the settings of your browser to have the scroll bar on the left side of the screen instead.
+
